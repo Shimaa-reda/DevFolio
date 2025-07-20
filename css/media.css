@@ -1,0 +1,56 @@
+@media (min-width:992px) {
+    .container{
+       
+        max-width: 1100px;
+    }
+    
+}
+@media (max-width: 991px) {
+    .navbar .nav-link::before,
+    .navbar .nav-link.active::before {
+      content: none;
+    }
+    header .headerp{
+        font-size: 60px;
+       }
+     
+ 
+
+}
+@media (max-width:768px) {
+    header .headerp{
+        font-size: 85px;
+       }
+
+    .services .title h2,.blog .title h2,.blog ,.portfolio .title h2{
+        font-size: 50px;
+    }
+    .services .title p,.blog .title p,.blog ,.portfolio .title p{
+        font-size: 15px !important;
+    }
+    
+    
+    
+}
+@media (max-width: 576px) {
+    header .headerp{
+        font-size: 40px;
+       }
+
+       .contact .touch,.about-text{
+        margin-top: 30px ;
+        font-size: 30px !important;
+
+    }
+    .contact .more p{
+        font-size: 22px;
+    }
+    .about .about-text::after{
+       
+        top: 38px;
+     }
+     
+    
+
+}
+
