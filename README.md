@@ -26,9 +26,4 @@ This site is designed to showcase my skills, projects, and experience in a clean
 - Google Fonts
 - Font Awesome
 
-## 📸 Screenshots
-
-> *(Optional: Add one or more screenshots of your site here)*
-
-## 📂 Folder Structure
 
